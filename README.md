@@ -49,4 +49,4 @@ This ensures safe access to shared data and maintains the correct output order.
 ## How to Run
 1. Clone the repository
    ```bash
-   git clone https://github.com/niazmahmud24434/Multi Threading.git
+   git clone https://github.com/niazmahmud24434/Multi-Threading.git
